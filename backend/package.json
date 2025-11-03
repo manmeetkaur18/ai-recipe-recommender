@@ -1,10 +1,10 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "ai-recipe-recommender/backend/index.js",
+  "main": "index.js",
   "scripts": {
-    "start":"ai-recipe-recommender/backend/index.js",
-    "dev":"ai-recipe-recommender/backend/index.js"
+    "start":"Node index.js",
+    "dev":"nodemon index.js"
   },
   "keywords": [],
   "author": "",
